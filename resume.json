@@ -1,0 +1,281 @@
+{
+  "basics": {
+    "name": "José Antonio Henríquez Chavarría",
+    "label": "Backend Developer",
+    "picture": "http://drive.google.com/uc?export=view&id=1IEPMliWFIJ9O9FMHCw_JrifffnAd1nAa",
+    "email": "alphyon21@gmail.com",
+    "phone": "(503) 63093701, (503) 2362-3790",
+    "website": "https://chava-blog-ghost.herokuapp.com/",
+    "summary": "Developer, teacher, reader, researcher, I have worked in several softweare development companies, focused on application of agile development methodologies and applications of design principles and patterns in addition to the test-driven development approach (TDD), I have worked in Educational level technician, I have participated in research programs and projects to develop tool solutions to help the student community",
+    "location": {
+      "address": "Barrio El Ángel, pasaje El Salto",
+      "city": "El Rosario",
+      "region": "La Paz"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "alphyon",
+        "url": "https://github.com/alphyon"
+      },
+      {
+        "network": "Twitter",
+        "username": "alphyon",
+        "url": "http://twitter.com/alphyon"
+      },
+      {
+        "network": "Facebook",
+        "username": "alphyon21",
+        "url": "https://www.facebook.com/alphyon21"
+      },
+      {
+        "network": "Linkedin",
+        "username": "alphyon21",
+        "url": "https://www.linkedin.com/in/alphyon/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Elaniin Tech Company",
+      "position": "FullSatack Developer",
+      "website": "http://elaniin.com",
+      "startDate": "2019-01-01",
+      "endDate": "",
+      "summary": "Elaniin is a company dedicated a Develop Software and Digital Campaings",
+      "highlights": [
+        "Stripe API integration in the JW Perfect Match Social Network project.",
+        "Integration of notification functionalities and background processes by Rendezvous application",
+        "Creation of API with Laravel project G2G of Divine digital.",
+        "Creation of CMS with Laravel for Relentless project of Divine Digital.",
+        "Integration of new features of Relentless Digital Divine API.",
+        "Survey of time estimates for implementations, of new projects and change controls for existing projects."
+      ]
+    },
+    {
+      "company": "TechLatam ",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2018-06-22",
+      "endDate": "2018-12-01",
+      "summary": "Company that is dedicated to provide services of development of solutions and computer processes of startups in incubation processes",
+      "highlights": [
+        "Project Manager Project DataPaga.",
+        "Creation of components and layout of views using ReactJs",
+        "Integration of reactive components in Web services consumption.",
+        "Analysis of requirements and updating of DataPaga project documentation.",
+        "Creation of user stories for the implementation of agile methodologies on Project DataPaga"
+      ]
+    },
+    {
+      "company": "Stefanini Informática y Tecnología",
+      "position": "Scrum Master and Java Developer.",
+      "website": "https://stefanini.com/es",
+      "startDate": "2015-07-01",
+      "endDate": "2018-06-01",
+      "summary": "At Stefanini, we believe listening to our customer is a key component in delivering quality products and services. We are committed to meeting our customers’ quality expectations and actively adopting relevant quality standards.",
+      "highlights": [
+        "Adjustments services restriction of faults according to profile Tigo El Salvador Orders Manager.",
+        "Creation of component for management of work orders by migrations, Tigo El Salvador Order Manager.",
+        "Adjustments to the reports module Project Portal Agents Tigo Money Guatemala (PHP, Laravel, Angular).",
+        "Settings is modules Alerts and Project Reports Panic Button Tigo Honduras, (Jquery and PHP).",
+        "Developer project Portal Tigo Money agents for Guatemala with Frameworks Laravel (PHP) and Angular (JavaScript).",
+        "Implementation of Docker Container, for web development environment (PHP, MySQL, Apache2, Angular).",
+        "Implementation of Continuous Deployment process (git, Jenkins, Laravel and Angular)",
+        "Implementation of a new screen to create work orders for Resource Manager TIGO Bolivia.",
+        "Implementation of the TIGO Bolivia resource manager work order creation process, functionality that additionally consumes available hours and time schedules for the creation of new work orders.",
+        "Integration of Audit process in MFS Tigo project services developed in Oracle Service Bus.",
+        "Support to CrmIntegrator Tigo project, developed in Oracle Bpel.",
+        "Scrum Master Project Notificame in  Banco Agrícola El Salvador.",
+        "Consultant Agile methodologies with Scrum framework in Mypes project and Financial correspondents application (Zeepto) Banco Agrícola El Salvador.",
+        "Development of new functionalities and maintenance Project panic button Tigo Honduras, Development in PHP language with Yii2 Framework.",
+        "Development of modules for different functionalities in the INNOApp application Avianca El Salvador, participating in the development process with Spring Framework, Hibernate and AngularJs technologies. In addition to development, I had the role of Technical Leader, using Scrum as a framework for development.",
+        "Development of SOA service, using Oracle Service Bus for TigoNumberValidation component of API in MFS project.",
+        "Layout of Web pages, for login, Activation of materials, registers and dashboards, using HMTL5 and CSS3; for Grupo Editorial SM (http: // sm- educacion.com.co/registro//index.php).",
+        "Development of Module for activation of Educational Materials of Grupo SM, developed on Framework object-oriented owner with PHP (backend) and consumption of the results with Jquery and JavaScript (frontend).",
+        "Module Development for new claims of the TIGO El Salvador Extended Guarantee platform, under JEE architecture, consumption of Webservices, JSF and JPA.",
+        "Development of SOA Services, using Oracle Service Bus in Project Methods SSA of Tigo Money for services of El Salvador, Orchestrated of services, deployments and tests of the developed services, on console of Administration of OSB and SOAP UI.",
+        "Integration of services in APIGEE for TIBol project, integrating services using the APIGEE platform, review of incidents in the JIRA platform, Documentation of Service tests and publication in the Confluence platform.",
+        "Documentation of Tigo Orders Management System El Salvador."
+      ]
+    },
+    {
+      "company": "Escuela Especializada en Ingeniería ITCA-FEPADE.",
+      "position": "Teacher full time",
+      "website": "https://www.itca.edu.sv/",
+      "startDate": "2015-06-01",
+      "endDate": "2018-06-01",
+      "summary": "The ITCA-FEPADE School of Engineering has a recognized academic background, a path sustained by the effort and vision that gave way to the realization of its foundation objective: to promote training and human resources in El Salvador.",
+      "highlights": [
+        "Teach, plan classes in the area of ​​Programming, Systems Analysis and Development of plans for teaching Technicians in Computer Systems Careers, Activity Plans and Schedules.",
+        "Participation in Institutional Research Program.",
+        "Development of Technology Use Manual for Development of Augmented Reality applications with Microsoft Kinect sensor.",
+        "Development of framework for web applications with PHP (registered publication with ISBN: 978-99961-50-06-7).",
+        "Business Web Portal for the Nonualcos Region.",
+        "Development of Virtual Tutor for Computational Logic Learning.",
+        "Coordinator of the programs of professional practices of the students of computer systems careers, in which control and follow-up visits are registered in the institutions where the professional practices were developed.",
+        "Project Counseling Graduation of students Graduates of Computer Systems Technician careers.",
+        "Additionally I had functions of development and planning of integral activities with groups of students in sports and cultural preparations."
+      ]
+    },
+    {
+      "company": "Escuela Especializada en Ingeniería ITCA-FEPADE.",
+      "position": "Teacher part time",
+      "website": "https://www.itca.edu.sv/",
+      "startDate": "2008-02-01",
+      "endDate": "2015-06-01",
+      "summary": "The ITCA-FEPADE School of Engineering has a recognized academic background, a path sustained by the effort and vision that gave way to the realization of its foundation objective: to promote training and human resources in El Salvador.",
+      "highlights": [
+        "Teach, plan classes for levels of education to Technicians in Computer Careers, teach and plan classes for area of courses in the area of computer science in open mode."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Funzel",
+      "position": "Volunteer",
+      "website": "http://funzel.org/",
+      "startDate": "2012-06-01",
+      "endDate": "2012-06-01",
+      "summary": "The Zoological Foundation of El Salvador- FUNZEL works in favor of the conservation of the wild fauna of El Salvador; In recent years it has developed different activities with an emphasis on marine turtles",
+      "highlights": [
+        "Help in the repair of turtle hatchery in Mendez island area Usulutan El Salvador"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Francisco Gavidia",
+      "area": "Computing Science",
+      "studyType": "Engineer",
+      "startDate": "2008-02-01",
+      "endDate": "2012-12-01"
+    },
+    {
+      "institution": "Escuela Especializada en Ingeniería ITCA-FEPADE",
+      "area": "Systems Engineering and Computer Networks",
+      "studyType": "Technician",
+      "startDate": "2002-01-01",
+      "endDate": "2003-12-01"
+    }
+  ],
+  "publications": [
+    {
+      "name": "CD/CI with Jenkins",
+      "publisher": "Git Books",
+      "releaseDate": "2018-01-01",
+      "website": "https://alphyon.gitbooks.io/ci-cd-jenkins/content/",
+      "summary": "Concepts and application of CI flows, CD with Jenkins"
+    },
+    {
+      "name": "Spring from 0",
+      "publisher": "Git Books",
+      "releaseDate": "2017-01-01",
+      "website": "https://alphyon.gitbooks.io/spring-desde-0/content/",
+      "summary": "Development of applications using Spring framework"
+    },
+    {
+      "name": "Use Augmented reality to create educational escenarios ISBN:978-99961-50-24-1",
+      "publisher": "ITCA Editores",
+      "releaseDate": "2015-01-01",
+      "website": "https://bit.ly/32vmkHa",
+      "summary": "Investigation of the use of software alternatives based on Augmented Reality for the generation of simulation scenarios of situations that can be applied to academic training rooms"
+    },
+    {
+      "name": "Make a Framework with PHP to develop applications ISBN:978-99961-50-06-7",
+      "publisher": "ITCA Editores",
+      "releaseDate": "2013-01-01",
+      "website": "https://bit.ly/2xT0Gyo",
+      "summary": "This is the publication of a document with the phases of research and development of the framework for a database mapping"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "keywords": [
+        "Beans",
+        "JSF",
+        "Spring",
+        "Primefaces"
+      ]
+    },
+    {
+      "name": "PHP",
+      "keywords": [
+        "Laravel",
+        "Yii2"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "keywords": [
+        "Angular, basic",
+        "React, Basic",
+        "Vue.js basic",
+        "Jquery",
+        "CSS",
+        "Saas",
+        "HTML"
+      ]
+    },
+    {
+      "name": "Software Develop",
+      "keywords": [
+        "Desingns Patterns",
+        "S.O.L.I.D principle",
+        "Test Development Driven (TDD)"
+      ]
+    },
+    {
+      "name": "DataBase",
+      "keywords": [
+        "MySQL",
+        "Oracle"
+      ]
+    },
+    {
+      "name": "SOA",
+      "keywords": [
+        "Oracle Services Bus",
+        "Oracle Bpel",
+        "WebServices",
+        "WSDL",
+        "Xquery"
+      ]
+    },
+    {
+      "name": "CD\/CI",
+      "keywords": [
+          "SonarQube",
+          "Jenkins",
+          "Docker",
+          "Vagrant",
+          "AWS",
+          "Heroku",
+          "Digital Ocean",
+          "Devops"
+      ]
+  },
+  {
+      "name": "Others",
+      "keywords": [
+          "SVN",
+          "GIT",
+          "Agile methodologies",
+          "Scrum", 
+          "Kanban",
+          "Api Rest"
+      ]
+  }
+  ],
+  "languages": [
+    {
+        "language": "Spanish",
+        "fluency": "Native or bilingual"
+    },
+    {
+        "language": "English",
+        "fluency": "Limited working"
+    }
+]
+}
